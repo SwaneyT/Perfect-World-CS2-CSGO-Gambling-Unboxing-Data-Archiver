@@ -19,6 +19,7 @@ Any translations not found in "china_translation_organised.txt" will be added to
 Setup requires changing the MongoDB URI and changing the "china_data" table to your database name in "pymongo_get_database.py", as well as changing the table name at the top of "scan_and_insert_mongodb.py".
 
 Example data in MongoDB:
+
 ![image](https://github.com/SwaneyT/Perfect-World-CS2-CSGO-Gambling-Unboxing-Data-Archiver/assets/111639108/122b5a83-0e00-4a1f-a736-552d207948cf)
 
 
