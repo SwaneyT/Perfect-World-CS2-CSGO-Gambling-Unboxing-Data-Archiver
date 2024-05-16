@@ -14,7 +14,7 @@ The program also categorises the case/capsule into all possible categories avail
 * Patch Pack
 * Pins Capsule
 
-Any translations not found in "china_translatino_organised.txt" will be added to "translation_errors.txt", for you to manually add the translation.
+Any translations not found in "china_translation_organised.txt" will be added to "translation_errors.txt", for you to manually add the translation.
 
 Setup requires changing the MongoDB URI and changing the "china_data" table to your database name in "pymongo_get_database.py", as well as changing the table name at the top of "scan_and_insert_mongodb.py".
 
